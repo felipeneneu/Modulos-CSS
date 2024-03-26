@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+   
+header{
+    margin: 44px 0 144px 76px;
+}
+
+.img-logo {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+.link-header{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+    text-decoration: none;
+    
+}
+
+.button-login{
+    width: 130px;
+    height: 41px;
+    background: #665AE1;
+    border-radius: 20.5px;
+    border: none;
+    font-size: 24px;
+    line-height: 29.26px;
+    font-weight: 600;
+    color: #ffffff;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.informativo {
+    margin-left: 86px;
+    display: inline-block;
+}
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    line-height: 121.9px;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 70.7px;
+    color: #515151;
+}
+
+p{
+    width: 515px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px;
+    color: #848484;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.explore{
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    border-radius: 20.5px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34.13px;
+    border: none;
+    cursor: pointer;
+}
